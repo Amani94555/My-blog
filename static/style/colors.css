@@ -1,0 +1,47 @@
+body {
+    background-color: #E0F7FA;
+}
+
+.nav a {
+    color: #333;
+}
+
+.post-card {
+    background-color: #f0f6f5;
+
+}
+
+
+.post-card figcaption {
+    color: #666;
+}
+
+.read-more-button {
+    background-color: #839891;
+    color: #ffffff;
+}
+
+.read-more-button:hover {
+    background-color: #2e4946;
+}
+
+.post-card img {
+    background-color: #fff;
+}
+
+h1 {
+    color: #26535c;
+}
+
+h3 {
+    color: #8b2c4d;
+}
+
+p {
+    color: #333;
+}
+
+.author-info,
+.social-sharing {
+    background-color: #c8dee0
+}
